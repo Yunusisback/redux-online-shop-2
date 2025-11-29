@@ -24,7 +24,8 @@ A functional E-Commerce application demonstrating asynchronous state management 
 | **API Client** | Axios |
 | **Mock Backend** | JSON Server |
 
-Contributing 🤝
+Contributing �
+�
 Contributions, issues, and feature requests are welcome!
 
 
